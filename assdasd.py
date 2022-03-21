@@ -1,8 +1,0 @@
-from dataclasses import asdict
-from ssl import ALERT_DESCRIPTION_BAD_CERTIFICATE_STATUS_RESPONSE
-import ssl
-
-
-asyncdas
-ALERT_DESCRIPTION_BAD_CERTIFICATE_STATUS_RESPONSEs
-ssl
