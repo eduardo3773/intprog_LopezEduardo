@@ -1,7 +1,6 @@
 import random
 promedio = 0
 lista = []
-horno = 0
 numero = 1
 a = random.randint(300,320)
 for i in range(50):
