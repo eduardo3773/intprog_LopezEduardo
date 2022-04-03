@@ -2,7 +2,6 @@ import random
 promedio = 0
 lista = []
 numero = 1
-a = random.randint(300,320)
 for i in range(50):
     a = random.randint(300,320)
     lista.append(a)
