@@ -14,8 +14,11 @@ print("La lista de temperaturas es: ",lista)
 print("El promedio de temperaturas es ", promedioT)
 
 
-while numero != 0:
+while True:
     numero = int(input("Ingrese la temperatura actual del horno: "))
+    if numero == 0:
+        print ("Has ingresado 0, se cierra el programa.")
+        break
     if numero in range (299, 321):
         print("La temperatura es normal.")
     else:    
